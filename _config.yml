@@ -1,32 +1,29 @@
 # Basic
-title: 亢志军
-subtitle: 自留地
-description: 欢迎来到我的个人网站~
+title: Homer Lynn
+subtitle: A place quite
+description: Welcome to Homer Lynn's blog.
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Homer Lynn
 # 头像里面的描述
-avatarDesc: Python/机器学习/嵌入式
-url: "http://robotkang.cc"
+avatarDesc: iOS/Swift/Python
+url: "http://homerice.wang"
 
 # Comment
 comment:
-    provider: duoshuo
+    provider: Homer Lynn
     duoshuo:
-     short_name: robotkang
+     short_name: Homer Lynn
 
 # Social
 social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+    github: wyh900207
     # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
+    mail: homerice@gmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+#baidu:
+    #id: 144d500dd9ac4a65465a14b95f3e4ade 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
