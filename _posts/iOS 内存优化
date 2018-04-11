@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "iOS 内存优化"
+date:   2018-04-11 14:28:52 +0800
+description: 'iOS 内存优化'
+tag: iOS
+---
 ## iOS 内存优化
 
 #### 检测内存问题的一般方法:
